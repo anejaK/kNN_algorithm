@@ -1,4 +1,4 @@
-# k Nearest Neighbour from scratch
+# k Nearest Neighbor from scratch
 ## Implemenation
 **mainFunction()**
 The MainFunction performs all the functionalities from Importing the dataset to
